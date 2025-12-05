@@ -37,7 +37,7 @@ javac -d bin src/main/java/com/devops/**/*.java
 ```bash
 java -cp bin com.devops.Main
 ```
-
+        
 ## Requirements
 
 - Java 8 or higher
